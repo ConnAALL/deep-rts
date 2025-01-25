@@ -40,12 +40,12 @@ month={Aug},}
 
 ### Method 1 (From Git Repo)
 ```
-sudo pip3 install git+https://github.com/cair/DeepRTS.git
+sudo pip3 install git+https://github.com/ConnAALL/DeepRTS.git
 ```
 
 ### Method 2 (Clone & Build)
 ```
-git clone https://github.com/cair/deep-rts.git
+git clone https://github.com/ConnAALL/deep-rts.git
 cd deep-rts
 git submodule sync
 git submodule update --init
